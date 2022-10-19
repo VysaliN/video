@@ -1,6 +1,6 @@
 import React from 'react'
 import './Video.css'
-import video from './html.mp4'
+import video from './video.mp4'
 
 const Video = () => {
   return (
